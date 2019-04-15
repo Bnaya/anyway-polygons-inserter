@@ -1,0 +1,5 @@
+{
+    "debug.node.autoAttach": "on",
+    "typescript.tsdk": "node_modules/typescript/lib",
+    "editor.formatOnSave": true
+}
